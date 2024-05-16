@@ -1,0 +1,10 @@
+
+main{
+    display: flex;
+    border: solid 2px red;
+    text-align: center;
+    width: 50%;
+}
+main form{
+    text-align: center;
+}
